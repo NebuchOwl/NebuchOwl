@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @NebuchOwl
-- 👀 I’m interested in game design
-- 🌱 I’m currently learning Level design and Narrative design
-- 💞️ I’m looking to collaborate on C#
-- 📫 How to reach me NebuchOwl@gmail.com
+- 👋 Hi, I’m Sina
