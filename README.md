@@ -1,4 +1,4 @@
-# 👋 Hey, I'm NebuchOwl
+# 👋 Hey, I'm Sina
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Ideas+Into+Reality;Code+by+Day%2C+Game+by+Night+%F0%9F%8E%AE;Always+Learning%2C+Never+Settling" alt="Typing Animation" />
