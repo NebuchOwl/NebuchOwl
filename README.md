@@ -61,7 +61,26 @@
 
 <div align="center">
   
-  ![](https://raw.githubusercontent.com/NebuchOwl/3d-stats/main/profile-3d-contrib/profile-night-rainbow.svg)
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NebuchOwl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22C55E&icon_color=22C55E" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebuchOwl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22C55E" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NebuchOwl&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NebuchOwl/NebuchOwl/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NebuchOwl/NebuchOwl/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NebuchOwl/NebuchOwl/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
 
 ---
 
@@ -91,18 +110,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NebuchOwl/NebuchOwl/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NebuchOwl/NebuchOwl/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NebuchOwl/NebuchOwl/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
 
 ---
 
