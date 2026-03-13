@@ -60,14 +60,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NebuchOwl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22C55E&icon_color=22C55E" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebuchOwl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22C55E" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NebuchOwl&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22C55E&icon_color=22C55E" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebuchOwl&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22C55E" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NebuchOwl&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NebuchOwl&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub Streak" />
 </div>
 
 ---
