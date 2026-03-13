@@ -38,7 +38,11 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs,svelte" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,bun,express,fastify,nestjs,tauri" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,express,nestjs,tauri,python" />
+
+![REST API](https://img.shields.io/badge/API-REST-green)
+![WebSockets](https://img.shields.io/badge/Realtime-WebSockets-blue)
+![Microservices](https://img.shields.io/badge/Architecture-Microservices-orange)
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,prisma,supabase" />
