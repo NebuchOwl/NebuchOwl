@@ -38,7 +38,7 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs,svelte" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,bun,express,fastify,nestjs,tauri,restapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun,express,fastify,nestjs,tauri" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,prisma,supabase" />
